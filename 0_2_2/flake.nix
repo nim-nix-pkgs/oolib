@@ -11,6 +11,7 @@
   inputs.src-oolib-0_2_2.ref   = "refs/tags/0.2.2";
   inputs.src-oolib-0_2_2.owner = "Glasses-Neo";
   inputs.src-oolib-0_2_2.repo  = "OOlib";
+  inputs.src-oolib-0_2_2.dir   = "";
   inputs.src-oolib-0_2_2.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
