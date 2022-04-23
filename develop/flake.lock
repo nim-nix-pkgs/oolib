@@ -42,11 +42,11 @@
     "src-oolib-develop": {
       "flake": false,
       "locked": {
-        "lastModified": 1648035379,
-        "narHash": "sha256-KFVEOzw5UsW3bREUcq75DBwSxg8bg/bnzScPy6d+P30=",
+        "lastModified": 1650191998,
+        "narHash": "sha256-FBj1vnLbeCqdfzv7j8JawzauD861RhMOHh1fFfpDYwk=",
         "owner": "Glasses-Neo",
         "repo": "OOlib",
-        "rev": "da0a7b07ba3e837cd428f780894dfa10d53bc069",
+        "rev": "a21acd76fb070e1fc70ee0fc43ae03e5c1205277",
         "type": "github"
       },
       "original": {
