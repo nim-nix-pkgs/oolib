@@ -23,8 +23,8 @@
     },
     "nixpkgs": {
       "locked": {
-        "narHash": "sha256-sK1Ow//80EKE3bAF5d+2gB8vPXw6m5TBk3wSLHvdVe0=",
-        "path": "/nix/store/0yqgkbpmsk7ck4s34wk505sfdd9vils4-source",
+        "narHash": "sha256-7sWpWRO0IsBP5jm9qCrpuzDkWC7UAghiCmZZ+1uqHKo=",
+        "path": "/nix/store/q2jrkx5a3z6yxzbfai0kxpnqki80jm3l-source",
         "type": "path"
       },
       "original": {
@@ -42,11 +42,11 @@
     "src-oolib-develop": {
       "flake": false,
       "locked": {
-        "lastModified": 1650191998,
-        "narHash": "sha256-FBj1vnLbeCqdfzv7j8JawzauD861RhMOHh1fFfpDYwk=",
+        "lastModified": 1651405383,
+        "narHash": "sha256-wpmR9kSjryPx4SW4fLN3j52//UCisNo1W52N3Z77kQU=",
         "owner": "Glasses-Neo",
         "repo": "OOlib",
-        "rev": "a21acd76fb070e1fc70ee0fc43ae03e5c1205277",
+        "rev": "be8d6d9aa809181f6f17ae5a8721fc812c09956d",
         "type": "github"
       },
       "original": {
